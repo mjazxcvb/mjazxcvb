@@ -1,4 +1,8 @@
-### Hi there 👋
+- hi, MJ here 
+- working on web and mobile development  
+- daily use of ``.jsx``, ``.tsx``, ``.php``
+- reach me @ [mjmaguelo@gmail.com](mjmaguelo@gmail.com)
+- find me @ [linkedIn](https://www.linkedin.com/in/mj-aguelo/)
 
 <!--
 **mjazxcvb/mjazxcvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - Hi 👋 , MJ here 
 - 💻 web and mobile development: ``.jsx``, ``.tsx``, ``.php``
-- 📫 reach me @ [mjmaguelo@gmail.com](mjmaguelo@gmail.com)
+- 📫 reach me @ [mjmaguelo@gmail.com](mailto:mjmaguelo@gmail.com)
 - 🔍 find me @ [LinkedIn](https://www.linkedin.com/in/mj-aguelo/)
 
 <!--
